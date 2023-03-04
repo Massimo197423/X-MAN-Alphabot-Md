@@ -17,9 +17,9 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read message
+global.autoread = false // auto read message
 global.autobio = false //auto ganti bio
-global.anticall = true //anti call 
+global.anticall = false //anti call 
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
@@ -41,7 +41,7 @@ global.region = "Buddhist" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
 global.premium = ['94764497078'] //premium user
 global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "764497078" // nomor wa kalian
+global.ownernomer "94788552037" // nomor wa kalian
 global.ownernomerr = "+94764497078" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
